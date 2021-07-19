@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaranMonani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ReactJS
+- 🌱 I’m currently experimenting with ReactJS
 - 📫 How to reach me ...email : monanikaran@gmail.com
 
 <!---
